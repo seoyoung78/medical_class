@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14.001" height="14.001">
+    <defs>
+        <style>
+            .cls-2{fill:#ced2d8}
+        </style>
+    </defs>
+    <g id="ic_title_progress" transform="translate(0 -1)">
+        <g id="그룹_55275" data-name="그룹 55275" transform="translate(-2 -.4)">
+            <path id="빼기" class="cls-2" d="M5.255 11.4H1a1 1 0 0 1-1-1v-9a1 1 0 0 1 1-1h9a1 1 0 0 1 1 1v4.257A4.5 4.5 0 0 0 5.254 11.4zM2.5 7.9a.5.5 0 0 0 0 1h2a.5.5 0 1 0 0-1zm0-2.5a.5.5 0 0 0 0 1h3a.5.5 0 1 0 0-1zm0-2.5a.5.5 0 0 0 0 1h5a.5.5 0 0 0 0-1z" transform="translate(3.001 2)"/>
+            <g id="outline" transform="translate(8.27 8.024)">
+                <path id="빼기_281" data-name="빼기 281" class="cls-2" d="M4.231 7.377a3.5 3.5 0 1 1 3.5-3.5 3.5 3.5 0 0 1-3.5 3.5zm-.072-5.322a.442.442 0 0 0-.442.442v1.59a.442.442 0 0 0 .013.1.4.4 0 0 0 .123.223L5.1 5.581a.458.458 0 0 0 .313.121.453.453 0 0 0 .311-.121.393.393 0 0 0 0-.583L4.6 3.947V2.5a.442.442 0 0 0-.441-.445z"/>
+            </g>
+        </g>
+    </g>
+</svg>

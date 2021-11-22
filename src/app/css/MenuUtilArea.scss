@@ -1,0 +1,61 @@
+.menuWrap {
+  height: 44px;
+  line-height: 44px;
+  color: #fff;
+  background-color: #08b6ce;
+  .menuIco {
+    width: 22px;
+    margin-left: 16px;
+    background-size: contain;
+    background-position: 50% 45%;
+    background-image: url(imgs/ic_hamburger.svg);
+    background-repeat: no-repeat;
+    cursor: pointer;
+  }
+  .menu-1depth, .left-arrow {
+    margin-left: 10px;
+  }
+  .left-arrow {
+    width: 16px;
+    margin-left: 4px;
+    margin-right: 4px;
+    background-size: contain;
+    background-position: 50% 45%;
+    background-image: url(imgs/ic_arrow_left.svg);
+    background-repeat: no-repeat;
+  }
+  .t-fnc {
+    margin-left: auto;
+    span {margin-right: 4px;}
+    .ic-user {
+      width: 16px;
+      background-image: url(imgs/ic_user.svg);
+      background-size: contain;
+      background-position: 50% 45%;
+      background-repeat: no-repeat;
+    }
+    .t-info button {
+      margin: auto;
+      padding: 0 10px;
+      margin-right: 4px;
+      font-size: 11px;
+      height: 24px;
+      background-color: #fff;
+      border: none;
+      border-radius: 12px;
+      span {
+        font-weight: bold;
+        margin-left: 4px;
+        color: #ff676e
+      }
+    }
+    .t-search input {
+      margin: 0 10px;
+      width: 190px;
+      border: none;
+      height: 28px;
+      border-radius: 3px;
+      padding-left: 10px;
+    }
+  }
+}

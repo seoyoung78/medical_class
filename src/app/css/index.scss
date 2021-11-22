@@ -1,0 +1,183 @@
+ @font-face {
+  font-family: 'NSKR';
+  src:  url('font/NotoSansKR-Black.otf') format('otf'),
+        url('font/NotoSansKR-Light.otf') format('otf'),
+        url('font/NotoSansKR-Bold.otf') format('otf'),
+        url('font/NotoSansKR-Regular.otf') format('otf'),
+        url('font/NotoSansKR-Thin.otf') format('otf'),
+}
+/* 여백 초기화 */
+body,div,ul,li,dl,dd,dt,ol,h1,h2,h3,h4,h5,h6,input,fieldset,legend,p,select,
+table,th,td,tr,textarea,button,form,figure,figcaption{margin:0;padding:0;}
+
+body {
+  font-family: 'NSKR' !important;
+}
+/* 박스사이즈 */
+body, div{
+  box-sizing: border-box;
+}
+/* flex */
+.h-box{display:-webkit-flex;display:flex;-webkit-flex-direction:row;flex-direction:row;min-width:0;}
+.v-box{display:-webkit-flex;display:flex;-webkit-flex-direction:column;flex-direction:column;min-width:0;}
+.flex-1{-webkit-flex:1;flex:1;min-width:0;}
+.flex-2{-webkit-flex:2;flex:2;min-width:0;}
+.flex-3{-webkit-flex:3;flex:3;min-width:0;}
+.flex-grow {flex-grow: 1;}
+
+/* display */
+.none {display: none;}
+.hidden {display: hidden;}
+.flex {display: flex;}
+.fixed {display: fixed;}
+.block {display: block;}
+/* opacity */
+.opac-05 { opacity: 0.5;}
+.opac-075 {opacity: 0.75;}
+/* font */
+.font-15 {font-size: 15px;}
+.font-12 {font-size: 12px;}
+.bold {font-weight: bold;}
+/* align */
+.f-right {float: right;}
+.f-left {float: left;}
+.center {text-align: center;}
+.right {text-align: right;}
+.left {text-align: left;}
+/* color */
+.white {color: white;}
+.snbcolor {color: #333948;}
+.pointcolor {color: #08b6ce;}
+.t-red { color: #ff676e }
+/* ellipsis */
+.ellipsis { display: block; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;}
+/* margin */
+.mg-auto { margin: auto;}
+.mr-12 {margin-right: 12px;}
+.mb-12 {margin-bottom: 12px;}
+
+.wrap {
+  width: 100%;
+  height: 100%;
+}
+
+.WEHAGO-H_Wrap {
+  display: flex;
+  flex-wrap: nowrap; 
+}
+.containerWrap {
+  display: flex;
+  flex-direction: column;
+  margin-left: 6px; 
+  width: 100%;
+}
+
+.contentsWrap {
+  margin: -20px;
+  min-width: 1548px;
+  max-height: 868px;
+  background-color: whitesmoke;
+  .fixed-contents-area {
+    min-width: 352px;
+    height: 868px;
+    background-color: white;
+    box-shadow: 2px 0 4px 0 rgba(0, 0, 0, 0.08);
+  }
+}
+.module-contens {
+  width: 100%;
+  height: 100%;
+  .pannel-container {
+    margin: 16px;
+    .pationt-info {
+      min-width: 386px;
+      height: 316px;
+      background-color: white;
+      border-radius: 4px;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.05);
+    }
+    .physical-info {
+      width: 542px;
+      height: 152px;
+      margin-bottom: 12px;
+      background-color: white;
+      border-radius: 4px;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.05);
+    }
+    .diagnostic-info {
+      width: 542px;
+      height: 152px;
+      background-color: white;
+      border-radius: 4px;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.05);
+    }
+    .progrees-note {
+      width: calc(100% - 950px);
+      height: 316px;
+      background-color: white;
+      border-radius: 4px;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.05);
+    }
+    .prescription-refer {
+      min-width: 386px;
+      min-height: 508px;
+      background-color: white;
+      border-radius: 4px;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.05);
+    }
+    .dp-container {
+      width: calc(100% - 386px);
+      .diagnosis-tb {
+        min-height: 218px;
+        background-color: white;
+        border-radius: 4px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.05);
+      }
+      .prescription-tb {
+        min-height: 278px;
+        background-color: white;
+        border-radius: 4px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.05);
+        & .prsc-bottom-container {
+          display: flex;
+          padding: 0 16px 0 0;
+          height: 27px;
+          font-size: 12px;
+          justify-content: flex-end;
+          // margin-top: 16px;
+          & .btn-collection {
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+            & .btn-box {
+              height: 27px;
+              line-height: 27px;
+              padding: 0 10px;
+              border: 1px solid #d4d4d4;
+              border-radius: 3px;
+            }
+            & :not(:last-child) { margin-right: 4px;}
+            & .success {
+              border: 1px solid #08b6ce;
+              background-color: #08b6ce;
+              color: white;
+              & img {
+                margin-right: 2px;
+                vertical-align: middle;
+              }
+            }
+            & .temp img {
+              margin-right: 2px;
+              vertical-align: middle;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+.pannel-line {
+  height: 1px;
+  background-color: #e6e6e6;
+  margin-bottom: 4px;
+}

@@ -1,0 +1,40 @@
+.vital-info-container {
+  padding: 10px 16px;
+  font-size: 12px;
+  height: inherit;
+  & .vital-top {
+    height: 23px;
+    line-height: 23px;
+    margin-bottom: 7px;
+    & .btn-collection {
+      display: flex;
+      justify-content: flex-end;
+    }
+    & .btn-box {
+      width: 21px;
+      height: 21px;
+      border: 1px solid #d4d4d4;
+      border-radius: 3px;
+      & div {
+        width: 16px;
+        height: 16px;
+        margin: 2px;
+        background-size: contain;
+        background-position: 50% 45%;
+        background-repeat: no-repeat;
+        cursor: pointer;
+      }
+      .graph-popup {
+        background-image: url(../imgs/CLR/CLRS0103/ic_graph_s.svg);    
+      }
+      .setting {
+        background-image: url(../imgs/CLR/CLRS0103/ic_setting_s.svg);    
+      }
+    }
+    & :not(:last-child) { margin-right: 4px;}
+  }
+  & .vital-info::before {
+    content: url(../imgs/CLR/CLRS0103/ic_title_body.svg);
+    margin-right: 4px;
+  }
+} 

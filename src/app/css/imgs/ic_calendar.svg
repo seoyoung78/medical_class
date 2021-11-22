@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22">
+    <defs>
+        <style>
+            .cls-4,.cls-7{fill:none}.cls-3,.cls-4{stroke:#777}.cls-4{stroke-width:1.5px}.cls-3{fill:#595959}.cls-4{stroke-linecap:round}.cls-6{stroke:none}
+        </style>
+    </defs>
+    <g id="ic_widget_calendar" transform="translate(-1348 -13)">
+        <g id="ic" transform="translate(484 -349)">
+            <g id="사각형_28900" data-name="사각형 28900" transform="translate(867 365)" style="stroke-width:1.5px;stroke:#777;fill:none">
+                <rect class="cls-6" width="16" height="16" rx="3"/>
+                <rect class="cls-7" x=".75" y=".75" width="14.5" height="14.5" rx="2.25"/>
+            </g>
+            <g id="사각형_28901" data-name="사각형 28901" class="cls-3">
+                <path class="cls-6" d="M0 0h1.5v1.5H0z" transform="translate(870.75 372.501)"/>
+                <path class="cls-7" d="M.5.5H1V1H.5z" transform="translate(870.75 372.501)"/>
+            </g>
+            <g id="사각형_28902" data-name="사각형 28902" class="cls-3">
+                <path class="cls-6" d="M0 0h1.5v1.5H0z" transform="translate(874.266 372.501)"/>
+                <path class="cls-7" d="M.5.5H1V1H.5z" transform="translate(874.266 372.501)"/>
+            </g>
+            <g id="사각형_28903" data-name="사각형 28903" class="cls-3">
+                <path class="cls-6" d="M0 0h1.5v1.5H0z" transform="translate(877.781 372.501)"/>
+                <path class="cls-7" d="M.5.5H1V1H.5z" transform="translate(877.781 372.501)"/>
+            </g>
+            <g id="사각형_28904" data-name="사각형 28904" class="cls-3">
+                <path class="cls-6" d="M0 0h1.5v1.5H0z" transform="translate(870.75 376.017)"/>
+                <path class="cls-7" d="M.5.5H1V1H.5z" transform="translate(870.75 376.017)"/>
+            </g>
+            <g id="사각형_28905" data-name="사각형 28905" class="cls-3">
+                <path class="cls-6" d="M0 0h1.5v1.5H0z" transform="translate(874.266 376.017)"/>
+                <path class="cls-7" d="M.5.5H1V1H.5z" transform="translate(874.266 376.017)"/>
+            </g>
+            <g id="사각형_28906" data-name="사각형 28906" class="cls-3">
+                <path class="cls-6" d="M0 0h1.5v1.5H0z" transform="translate(877.781 376.017)"/>
+                <path class="cls-7" d="M.5.5H1V1H.5z" transform="translate(877.781 376.017)"/>
+            </g>
+            <path id="선_1801" data-name="선 1801" class="cls-4" transform="translate(871.5 364.25)" d="M0 0v3"/>
+            <path id="선_1802" data-name="선 1802" class="cls-4" transform="translate(878.5 364.25)" d="M0 0v3"/>
+            <path id="사각형_29114" data-name="사각형 29114" transform="translate(867.75 369)" style="fill:#777" d="M0 0h14.5v1.5H0z"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg id="ic_snb_recent" xmlns="http://www.w3.org/2000/svg" width="22" height="22">
+    <defs>
+        <style>
+            .cls-2,.cls-3{fill:none;stroke:#fff;stroke-linecap:round;stroke-width:1.5px}.cls-2{stroke-linejoin:round}
+        </style>
+    </defs>
+    <g id="icon" transform="translate(2.395 2.151)">
+        <path id="합치기_1147" data-name="합치기 1147" class="cls-2" d="m10912.766 20892.271 3.729 2.578zm-.157-5.424v0z" transform="translate(-10904.391 -20882.5)"/>
+        <g id="그룹_55179" data-name="그룹 55179" transform="translate(-.293 -.301)">
+            <path id="패스" class="cls-2" d="M36.3 70.831a9.151 9.151 0 1 0 8.446-12.677 9.311 9.311 0 0 0-7.886 4.538" transform="translate(-36.096 -58.154)"/>
+            <path id="선" class="cls-3" transform="translate(0 1.549)" d="M0 3.653V0"/>
+            <path id="선-2" data-name="선" class="cls-3" transform="translate(0 5.197)" d="M3.654 0H0"/>
+        </g>
+    </g>
+</svg>

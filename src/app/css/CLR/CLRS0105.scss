@@ -1,0 +1,88 @@
+.progress-record-container {
+  padding: 10px 16px;
+  font-size: 12px;
+  height: inherit;
+  & .p-record-top {
+    height: 23px;
+    line-height: 23px;
+    margin-bottom: 7px;
+    & .btn-collection {
+      display: flex;
+      justify-content: flex-end;
+      & .radio-container {
+        line-height: 2px;
+      }
+    }
+    & .btn-box {
+      height: 21px;
+      line-height: 21px;
+      padding: 0 8px;
+      border: 1px solid #d4d4d4;
+      border-radius: 3px;
+      & div {
+        width: 16px;
+        height: 16px;
+        margin: 2px;
+        background-size: contain;
+        background-position: 50% 45%;
+        background-repeat: no-repeat;
+        cursor: pointer;
+      }
+      .setting {
+        background-image: url(../imgs/CLR/CLRS0108/ic_setting_s.svg);    
+      }
+    }
+    & :not(:last-child) { margin-right: 4px;}
+  }
+  & .p-record-info::before {
+    content: url(../imgs/CLR/CLRS0108/ic_title_prescription.svg);
+    margin-right: 4px;
+  }
+} 
+.progress-record-item {
+  width: 156px;
+  height: 252px;
+  background-color: #f7f8fa;
+  margin-right: 20px;
+  padding: 10px;
+  .record-item { cursor: pointer;}
+  .record-item:hover {
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.12);
+    border: solid 1px #08b6ce !important;
+    &::after {
+      position: absolute;
+      margin-left: 10px;
+      content: url(../imgs/CLR/CLRS0105/ic_trashcan_m_normal.svg);
+    }
+  }
+}
+.new-badge {
+  font-size: 11px;
+  width: 31px;
+  height: 18px;
+  padding: 0 3px;
+  margin-right: 6px;
+  border-radius: 3px;
+  border: solid 1px #66bf2a;
+  color: #66bf2a;
+  background-color: #f1f9eb;
+}
+.order-badge {
+  font-size: 11px;
+  width: 31px;
+  height: 18px;
+  padding: 0 3px;
+  margin-right: 6px;
+  border-radius: 3px;
+  border: solid 1px #1d90fb;
+  color: #1d90fb;
+  background-color: #e8f4ff;
+}
+.progress-record-empty {
+  height: calc(316px - 72px);
+  display: flex; 
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center;
+  margin: auto;
+}

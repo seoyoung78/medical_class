@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22">
+    <defs>
+        <style>
+            .cls-3{fill:#777}
+        </style>
+    </defs>
+    <g id="ic_widget_alert" transform="translate(-1043 -187)">
+        <g id="ic">
+            <path id="합치기_1144" data-name="합치기 1144" d="m17127 22034 2-2v-5a5 5 0 0 1 10 0v5l2 2z" transform="translate(-16080 -21831)" style="fill:none;stroke:#777;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px"/>
+            <path id="사각형_29112" data-name="사각형 29112" class="cls-3" d="M0 0h4a2 2 0 0 1-2 2 2 2 0 0 1-2-2z" transform="translate(1052 205)"/>
+            <path id="사각형_29113" data-name="사각형 29113" class="cls-3" d="M1 0a1 1 0 0 1 1 1v1H0V1a1 1 0 0 1 1-1z" transform="translate(1053 189)"/>
+        </g>
+    </g>
+</svg>

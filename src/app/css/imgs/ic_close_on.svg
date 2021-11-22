@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#08b6ce;stroke-linecap:round}
+        </style>
+    </defs>
+    <g id="icon_tabon_close_select" transform="translate(-.229 -.229)">
+        <path id="area_11_11" data-name="area 11*11" transform="translate(.229 .229)" style="fill:transparent" d="M0 0h12v12H0z"/>
+        <path id="선_2" data-name="선 2" class="cls-2" transform="translate(3.229 3.229)" d="m0 0 6 6"/>
+        <path id="선_3" data-name="선 3" class="cls-2" transform="translate(3.229 3.229)" d="M6 0 0 6"/>
+    </g>
+</svg>

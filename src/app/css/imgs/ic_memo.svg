@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22">
+    <defs>
+        <style>
+            .cls-3{fill:#777}
+        </style>
+    </defs>
+    <g id="ic_widget_memo" transform="translate(-1384 -13)">
+        <g id="ic" transform="translate(1 1)">
+            <g id="사각형_29108" data-name="사각형 29108" transform="translate(1386 15)" style="stroke:#777;stroke-width:1.5px;fill:none">
+                <rect width="16" height="16" rx="3" style="stroke:none"/>
+                <rect x=".75" y=".75" width="14.5" height="14.5" rx="2.25" style="fill:none"/>
+            </g>
+            <path id="사각형_29109" data-name="사각형 29109" class="cls-3" transform="translate(1389.75 23)" d="M0 0h8.5v1H0z"/>
+            <path id="사각형_29110" data-name="사각형 29110" class="cls-3" transform="translate(1389.75 26)" d="M0 0h6.5v1H0z"/>
+            <path id="사각형_29115" data-name="사각형 29115" class="cls-3" transform="translate(1386.75 19)" d="M0 0h14.5v1.5H0z"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg id="ic_file_menu" xmlns="http://www.w3.org/2000/svg" width="18" height="18">
+    <defs>
+        <style>
+            .cls-2{fill:#9ce2eb}
+        </style>
+    </defs>
+    <path id="사각형_539" data-name="사각형 539" class="cls-2" transform="translate(3 3)" d="M0 0h12v3H0z"/>
+    <path id="사각형_544" data-name="사각형 544" transform="translate(3 6)" style="fill:#fff" d="M0 0h12v9H0z"/>
+    <g id="사각형_3508" data-name="사각형 3508" transform="translate(2 2)" style="stroke:#08b6ce;fill:none">
+        <rect width="14" height="14" rx="1" style="stroke:none"/>
+        <rect x=".5" y=".5" width="13" height="13" rx=".5" style="fill:none"/>
+    </g>
+    <path id="사각형_540" data-name="사각형 540" class="cls-2" transform="translate(5 8)" d="M0 0h8v1H0z"/>
+    <path id="사각형_541" data-name="사각형 541" class="cls-2" transform="translate(5 10)" d="M0 0h8v1H0z"/>
+    <path id="사각형_542" data-name="사각형 542" class="cls-2" transform="translate(5 12)" d="M0 0h8v1H0z"/>
+</svg>

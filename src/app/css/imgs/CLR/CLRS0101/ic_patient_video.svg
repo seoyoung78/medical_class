@@ -1,0 +1,11 @@
+<svg id="ic_video_conversation_s_normal" xmlns="http://www.w3.org/2000/svg" width="14" height="14">
+    <defs>
+        <style>
+            .cls-2{fill:#7b7b7b}
+        </style>
+    </defs>
+    <g id="그룹_14629" data-name="그룹 14629" transform="translate(.767 1.534)">
+        <path id="빼기_433" data-name="빼기 433" class="cls-2" d="M-1518.768 4857.466h-6a2 2 0 0 1-2-2v-6a2 2 0 0 1 2-2h6a2 2 0 0 1 2 2v6a2 2 0 0 1-2 2zm-6-9a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1v-6a1 1 0 0 0-1-1z" transform="translate(1527 -4847)"/>
+        <path id="빼기_432" data-name="빼기 432" class="cls-2" d="M-1521.1 4855.068a1.187 1.187 0 0 1-.719-.242l-.947-.71v-1.251l1.547 1.161a.2.2 0 0 0 .119.041.2.2 0 0 0 .2-.2v-5.2a.2.2 0 0 0-.2-.2.194.194 0 0 0-.118.04l-1.547 1.161v-1.25l.947-.71a1.2 1.2 0 0 1 .72-.241 1.2 1.2 0 0 1 .538.127 1.193 1.193 0 0 1 .663 1.072v5.2a1.193 1.193 0 0 1-.663 1.073 1.21 1.21 0 0 1-.54.129z" transform="translate(1533 -4846)"/>
+    </g>
+</svg>

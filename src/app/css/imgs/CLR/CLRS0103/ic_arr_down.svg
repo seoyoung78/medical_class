@@ -1,0 +1,11 @@
+<svg id="ic_arr_down" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
+    <defs>
+        <style>
+            .cls-2{fill:#7b7b7b}
+        </style>
+    </defs>
+    <g id="그룹_111" data-name="그룹 111" transform="translate(4 6.553)">
+        <rect id="사각형_81" data-name="사각형 81" class="cls-2" width="1" height="6" rx=".5" transform="rotate(-45 .853 .353)"/>
+        <rect id="사각형_82" data-name="사각형 82" class="cls-2" width="1" height="6" rx=".5" transform="rotate(-135 3.147 1.596)"/>
+    </g>
+</svg>

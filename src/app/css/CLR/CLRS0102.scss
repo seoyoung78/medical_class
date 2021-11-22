@@ -1,0 +1,134 @@
+.patient-info-container {
+  padding: 16px;
+  font-size: 12px;
+  height: inherit;
+  & .info-top {
+    height: 23px;
+    line-height: 23px;
+    margin-bottom: 7px;
+    & .btn-collection {
+      display: flex;
+      justify-content: flex-end;
+    }
+    & .btn-box {
+      width: 21px;
+      height: 21px;
+      border: 1px solid #d4d4d4;
+      border-radius: 3px;
+      .patient-edit {
+        width: 16px;
+        height: 16px;
+        margin: 2px;
+        background-image: url(../imgs/CLR/CLRS0102/ic_edit_s.svg);    
+        background-size: contain;
+        background-position: 50% 45%;
+        background-repeat: no-repeat;
+      }
+    }
+    & .user-info::before {
+      width: 16px;
+      content: url(../imgs/CLR/CLRS0102/ic_title_profile.svg);
+      margin-right: 4px;
+    }
+  }
+  & .patient-detail {
+    margin: 10px 0px;
+  }
+  & .pt-name {
+    font-size: 14px;
+    font-weight: bold;
+  }
+  & .ic-container {
+    margin-left: auto;
+    display: flex;
+    & > div {
+      width: 18px;
+      height: 18px;
+      background-size: contain;
+      background-position: 50% 45%;
+      background-repeat: no-repeat;
+    }
+    & div:not(:last-child) {
+      margin-right: 6px;
+    }
+    & .favorite {
+      cursor: pointer;
+      background-image: url(../imgs/CLR/CLRS0102/ic_favorite_m_on.svg);
+    }
+    & .favorite_off {
+      cursor: pointer;
+      background-image: url(../imgs/CLR/CLRS0102/ic_favorite_m_off.svg);
+    }
+    & .vip {
+      background-image: url(../imgs/CLR/CLRS0102/ic_vip.svg);
+    }
+    & .warning {
+      background-image: url(../imgs/CLR/CLRS0102/ic_warning.svg);
+    }
+    & .memo_on {
+      background-image: url(../imgs/CLR/CLRS0102/ic_memo_on.svg);
+    } 
+    & .memo_off {
+      background-image: url(../imgs/CLR/CLRS0102/ic_memo_off.svg);
+    } 
+  }
+  & .patient-data {
+    margin-top: 6px;
+    & > div:not(:last-child):after {
+      content: "|";
+      color: #e6e6e6;
+      margin: 0 5px;
+    }
+  }
+  & .patient-util {
+    margin-top: 6px;
+    color: #7b7b7b;
+    & .location {
+      width: 16px;
+      height: 16px;
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-image: url(../imgs/CLR/CLRS0102/ic_location.svg);
+    }
+    & .call {
+      width: 16px;
+      height: 16px;
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-image: url(../imgs/CLR/CLRS0102/ic_call.svg);
+    }
+    span {
+      margin-left: 25px;
+      line-height: 20px;
+    }
+  }
+  & .patient-division {
+    color: #777;
+    margin: 10px 0px;
+    & .flex-1 div:first-child {
+      margin-bottom: 6px;
+    }
+    & .flex-1 div:last-child {
+      line-height: 20px;
+    }
+    & .badge {
+      width: 32px;
+      height: 20px;
+      margin: auto;
+      color: #08b6ce;
+      border-radius: 3px;
+      border: 1px solid #08b6ce;
+      background-color: #e5f8fa;
+      span {
+        line-height: 22px;
+      }
+    }
+  }
+  .user-info-empty {
+    height: calc(100% - 72px);
+    display: flex; 
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;
+  }
+}

@@ -1,0 +1,17 @@
+<svg id="ic_memo_on" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+    <defs>
+        <style>
+            .cls-3{fill:#83dae6}
+        </style>
+    </defs>
+    <g id="ic" transform="translate(562 -675)">
+        <g id="사각형_29268" data-name="사각형 29268" transform="translate(-560 677)" style="fill:#f4fcfd;stroke:#08b6ce">
+            <rect width="14" height="14" rx="2" style="stroke:none"/>
+            <rect x=".5" y=".5" width="13" height="13" rx="1.5" style="fill:none"/>
+        </g>
+        <path id="사각형_29270" data-name="사각형 29270" class="cls-3" d="M1 0h10a1 1 0 0 1 1 1v2H0V1a1 1 0 0 1 1-1z" transform="translate(-559 678)"/>
+        <rect id="사각형_29272" data-name="사각형 29272" class="cls-3" width="8" height="1" rx=".5" transform="translate(-557 683)"/>
+        <rect id="사각형_29273" data-name="사각형 29273" class="cls-3" width="8" height="1" rx=".5" transform="translate(-557 685)"/>
+        <rect id="사각형_29274" data-name="사각형 29274" class="cls-3" width="5" height="1" rx=".5" transform="translate(-557 687)"/>
+    </g>
+</svg>

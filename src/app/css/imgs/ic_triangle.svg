@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14">
+    <g data-name="다각형 85" style="fill:none">
+        <path d="M5.639 1.457a1 1 0 0 1 1.722 0l4.748 8.034A1 1 0 0 1 11.248 11h-9.5a1 1 0 0 1-.856-1.509z" style="stroke:none" transform="translate(.5)"/>
+        <path d="M6.5 1.966 1.752 10h9.496L6.5 1.966m0-1c.334 0 .667.163.86.491l4.748 8.034a1 1 0 0 1-.86 1.509H1.752a1 1 0 0 1-.86-1.509l4.747-8.034A.991.991 0 0 1 6.5.966z" style="fill:#7b7b7b;stroke:none" transform="translate(.5)"/>
+    </g>
+</svg>

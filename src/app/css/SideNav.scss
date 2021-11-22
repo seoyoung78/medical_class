@@ -1,0 +1,98 @@
+.sideWrap_container {
+  width: 54px;
+  height: 100vh;
+}
+.sideWrap {
+  width: 48px;
+  height: 100%;
+  background-color: #333948;
+  &:hover {
+    position: relative;
+    width: 254px;
+    z-index: 1;
+    transition: all 0.3s;
+    .sizeTool {
+      transition: all 0.3s;
+      margin-left: 254px;
+    }
+  }
+  .his, .wehago, .recent { display:block;}
+  .module-item {
+    list-style: none;
+    position: relative;
+    height: 44px;
+    margin-bottom: 6px;
+    color: white;
+    opacity: 40%;
+    &:last-child {
+      margin-bottom: 0px;
+    }
+  }
+  .module-item div {
+    width: 48px;
+    height: 44px;
+    background-size: contain;
+    background-position: 50% 45%;
+    background-repeat: no-repeat;
+  }
+  & .all_menu {
+    background-image: url(imgs/snb/his/ic_snb_menu.svg);
+  }
+  & .CLB {
+    background-image: url(imgs/snb/his/ic_snb_CLB.svg);
+  }
+  & .CLR {
+    background-image: url(imgs/snb/his/ic_snb_CLR.svg);
+  }
+  & .CLS {
+    background-image: url(imgs/snb/his/ic_snb_CLS.svg);
+  }
+  & .CLC {
+    background-image: url(imgs/snb/his/ic_snb_CLC.svg);
+  }
+  & .CLI {
+    background-image: url(imgs/snb/his/ic_snb_CLI.svg);
+  }
+  & .CLZ {
+    background-image: url(imgs/snb/his/ic_snb_CLZ.svg);
+  }
+  & .CLF {
+    background-image: url(imgs/snb/his/ic_snb_CLF.svg);
+  }
+  & .CLN {
+    background-image: url(imgs/snb/his/ic_snb_CLN.svg);
+  }
+  & .CLA {
+    background-image: url(imgs/snb/his/ic_snb_CLA.svg);
+  }
+}
+.sideWrap_container .sizeTool {
+  margin-left: 48px;
+}
+.sizeTool {
+  position: fixed;
+  top: 0px;
+  width: 6px;
+  height: 100%;
+  border: solid #e6e6e6;
+  border-width: 1px 1px 0 0;
+  background: #fafafa;
+  box-sizing: border-box;
+  cursor: ew-resize;
+  z-index: -1;
+}
+.sizeToolBtn {
+  width: 3px;
+  height: 20px;
+  margin-top: calc(960px/2);
+  background-color: #b4bcc5;
+  cursor: pointer;
+  transition: all .2s;
+  transform: translate(1px,-50%);
+}
+.sizeToolBtn:hover {
+  background-color: #333948;
+  width: 5px;
+  height: 50px;
+  transform: translateY(-50%);
+}

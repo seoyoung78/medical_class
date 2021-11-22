@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22">
+    <defs>
+        <style>
+            .cls-2,.cls-4{fill:none}.cls-2{stroke:#fff;stroke-width:1.5px}.cls-3{stroke:none}
+        </style>
+    </defs>
+    <g id="ic_snb_wehago" transform="translate(-170 -11)">
+        <g id="그룹_55178" data-name="그룹 55178">
+            <g id="타원_9021" data-name="타원 9021" class="cls-2" transform="translate(170 11)">
+                <circle class="cls-3" cx="11" cy="11" r="11"/>
+                <circle class="cls-4" cx="11" cy="11" r="10.25"/>
+            </g>
+            <g id="타원_9022" data-name="타원 9022" class="cls-2" transform="translate(176 17)">
+                <circle class="cls-3" cx="5" cy="5" r="5"/>
+                <circle class="cls-4" cx="5" cy="5" r="4.25"/>
+            </g>
+        </g>
+    </g>
+</svg>

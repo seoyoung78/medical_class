@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11" height="11">
+    <defs>
+        <style>
+            .cls-3{fill:#777}
+        </style>
+    </defs>
+    <g id="icon_tabon_new_normal" transform="translate(-693 -76)">
+        <path id="_12x12" data-name="12x12" transform="translate(693 76)" style="fill:transparent" d="M0 0h11v11H0z"/>
+        <g id="그룹_55198" data-name="그룹 55198" transform="translate(-533 -108)">
+            <path id="빼기_639" data-name="빼기 639" d="M22465 18435h-7a1 1 0 0 1-1-1v-7a1 1 0 0 1 1-1h1v1h-1v7h7v-1h1v1a1 1 0 0 1-1 1z" transform="translate(-21231 -18240)" style="opacity:.5;fill:#777"/>
+            <path id="사각형_29116_-_윤곽선" data-name="사각형 29116 - 윤곽선" class="cls-3" d="M1 1v7h7V1H1m0-1h7a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1V1a1 1 0 0 1 1-1z" transform="translate(1228 184)"/>
+            <path id="합치기_1148" data-name="합치기 1148" class="cls-3" d="M22336.145 18237.852a.5.5 0 0 1 0-.707l3.15-3.145h-1.793a.5.5 0 1 1 0-1h2.969a.5.5 0 0 1 .385.145.492.492 0 0 1 .145.383v2.971a.5.5 0 0 1-.5.5.5.5 0 0 1-.5-.5v-1.789l-3.146 3.141a.482.482 0 0 1-.354.15.491.491 0 0 1-.356-.149z" transform="translate(-21106 -18047)"/>
+        </g>
+    </g>
+</svg>
